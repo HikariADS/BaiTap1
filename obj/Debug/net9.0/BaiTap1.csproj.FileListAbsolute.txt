@@ -1,0 +1,14 @@
+C:\Users\bebiu\BaiTap1\bin\Debug\net9.0\BaiTap1.exe
+C:\Users\bebiu\BaiTap1\bin\Debug\net9.0\BaiTap1.deps.json
+C:\Users\bebiu\BaiTap1\bin\Debug\net9.0\BaiTap1.runtimeconfig.json
+C:\Users\bebiu\BaiTap1\bin\Debug\net9.0\BaiTap1.dll
+C:\Users\bebiu\BaiTap1\bin\Debug\net9.0\BaiTap1.pdb
+C:\Users\bebiu\BaiTap1\obj\Debug\net9.0\BaiTap1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bebiu\BaiTap1\obj\Debug\net9.0\BaiTap1.AssemblyInfoInputs.cache
+C:\Users\bebiu\BaiTap1\obj\Debug\net9.0\BaiTap1.AssemblyInfo.cs
+C:\Users\bebiu\BaiTap1\obj\Debug\net9.0\BaiTap1.csproj.CoreCompileInputs.cache
+C:\Users\bebiu\BaiTap1\obj\Debug\net9.0\BaiTap1.dll
+C:\Users\bebiu\BaiTap1\obj\Debug\net9.0\refint\BaiTap1.dll
+C:\Users\bebiu\BaiTap1\obj\Debug\net9.0\BaiTap1.pdb
+C:\Users\bebiu\BaiTap1\obj\Debug\net9.0\BaiTap1.genruntimeconfig.cache
+C:\Users\bebiu\BaiTap1\obj\Debug\net9.0\ref\BaiTap1.dll
